@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "saint_denis08_hotel_de_ville_-_credit_irt_-_serge_gelabert_dts_12_2017-1920x960.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
