@@ -14,6 +14,8 @@ struct SimpleArticle: Codable {
     var category: String
     var description: String
     var decouverte: Bool
+    var longitude: String
+    var latitude: String
     var data: Data
     var createdAt: String
     var updatedAt: String
